@@ -1,0 +1,29 @@
+{
+  "manifest_version": 1,
+  "version": "0.0.1",
+  "name": "XXX",
+  "short_name": "XXX",
+  "description": "XXX",
+  "default_locale": "en",
+  "icons": [
+        {
+            "src": "img/XXX",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "img/XXX",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "img/XXX",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#612095",
+  "theme_color": "#612095"
+}

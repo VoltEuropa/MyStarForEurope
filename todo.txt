@@ -1,0 +1,4 @@
+Star marker icon, popup ?
+Campaign icon, popup is a dialog
+Dialog should link to Donation page of campaign, to campaign page ? to candidates to programm ? use tabs as on calendar ?
+Search for adress, focus get "geo-coordinates" - Geosearch
